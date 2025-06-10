@@ -1,0 +1,494 @@
+{
+  "metadata": {
+    "generation_date": "2025-06-05T14:55:56.646835",
+    "data_type": "teaching_simulation_1kHz_high_precision",
+    "physics_basis": "linear_drift_with_realistic_light_speed",
+    "theoretical_model": "Δφ = a*θ + b + noise",
+    "parameters": {
+      "signal_frequency_Hz": 1000,
+      "laser_wavelength_nm": 632.8,
+      "target_light_speed_ms": 299000000.0,
+      "theoretical_time_period_ms": 1.0,
+      "linear_slope": 0.015,
+      "linear_intercept": 1.8,
+      "systematic_noise": 0.8,
+      "measurement_noise_deg": 0.08,
+      "precision_level": "ultra_high_precision"
+    },
+    "expected_result": "linear_dependence_with_realistic_light_speed",
+    "note": "这是基于1kHz信号的高精度教学数据，光速计算接近红色激光在空气中的速度"
+  },
+  "experimental_data": {
+    "0": {
+      "L1": [
+        {
+          "left_trough": 0.000443,
+          "right_trough": 0.000935,
+          "wavelength": 0.000984,
+          "peak_x": 0.000689
+        },
+        {
+          "left_trough": 0.000409,
+          "right_trough": 0.000908,
+          "wavelength": 0.000998,
+          "peak_x": 0.000659
+        },
+        {
+          "left_trough": 5.9e-05,
+          "right_trough": 0.00056,
+          "wavelength": 0.001001,
+          "peak_x": 0.000309
+        },
+        {
+          "left_trough": 0.000418,
+          "right_trough": 0.000908,
+          "wavelength": 0.000982,
+          "peak_x": 0.000663
+        },
+        {
+          "left_trough": 0.000365,
+          "right_trough": 0.000861,
+          "wavelength": 0.000991,
+          "peak_x": 0.000613
+        }
+      ],
+      "L2": [
+        {
+          "left_trough": 0.000446,
+          "right_trough": 0.000939,
+          "wavelength": 0.000987,
+          "peak_x": 0.000692
+        },
+        {
+          "left_trough": 0.000415,
+          "right_trough": 0.00091,
+          "wavelength": 0.00099,
+          "peak_x": 0.000662
+        },
+        {
+          "left_trough": 5.8e-05,
+          "right_trough": 0.000562,
+          "wavelength": 0.001009,
+          "peak_x": 0.00031
+        },
+        {
+          "left_trough": 0.000413,
+          "right_trough": 0.000908,
+          "wavelength": 0.000991,
+          "peak_x": 0.000661
+        },
+        {
+          "left_trough": 0.000371,
+          "right_trough": 0.000863,
+          "wavelength": 0.000984,
+          "peak_x": 0.000617
+        }
+      ]
+    },
+    "30": {
+      "L1": [
+        {
+          "left_trough": 0.000459,
+          "right_trough": 0.000963,
+          "wavelength": 0.001009,
+          "peak_x": 0.000711
+        },
+        {
+          "left_trough": 0.000218,
+          "right_trough": 0.000715,
+          "wavelength": 0.000995,
+          "peak_x": 0.000467
+        },
+        {
+          "left_trough": 0.00022,
+          "right_trough": 0.000718,
+          "wavelength": 0.000995,
+          "peak_x": 0.000469
+        },
+        {
+          "left_trough": 0.00055,
+          "right_trough": 0.001046,
+          "wavelength": 0.000993,
+          "peak_x": 0.000798
+        },
+        {
+          "left_trough": -2.6e-05,
+          "right_trough": 0.000473,
+          "wavelength": 0.000998,
+          "peak_x": 0.000223
+        }
+      ],
+      "L2": [
+        {
+          "left_trough": 0.000467,
+          "right_trough": 0.00097,
+          "wavelength": 0.001005,
+          "peak_x": 0.000719
+        },
+        {
+          "left_trough": 0.000229,
+          "right_trough": 0.000718,
+          "wavelength": 0.000978,
+          "peak_x": 0.000474
+        },
+        {
+          "left_trough": 0.000228,
+          "right_trough": 0.000723,
+          "wavelength": 0.000989,
+          "peak_x": 0.000475
+        },
+        {
+          "left_trough": 0.000549,
+          "right_trough": 0.001054,
+          "wavelength": 0.001009,
+          "peak_x": 0.000802
+        },
+        {
+          "left_trough": -2.4e-05,
+          "right_trough": 0.000479,
+          "wavelength": 0.001006,
+          "peak_x": 0.000228
+        }
+      ]
+    },
+    "60": {
+      "L1": [
+        {
+          "left_trough": 0.000421,
+          "right_trough": 0.000925,
+          "wavelength": 0.001006,
+          "peak_x": 0.000673
+        },
+        {
+          "left_trough": 5.9e-05,
+          "right_trough": 0.00056,
+          "wavelength": 0.001002,
+          "peak_x": 0.000309
+        },
+        {
+          "left_trough": -3.3e-05,
+          "right_trough": 0.000469,
+          "wavelength": 0.001002,
+          "peak_x": 0.000218
+        },
+        {
+          "left_trough": 0.000427,
+          "right_trough": 0.000933,
+          "wavelength": 0.001012,
+          "peak_x": 0.00068
+        },
+        {
+          "left_trough": 0.000149,
+          "right_trough": 0.000649,
+          "wavelength": 0.001,
+          "peak_x": 0.000399
+        }
+      ],
+      "L2": [
+        {
+          "left_trough": 0.000429,
+          "right_trough": 0.000932,
+          "wavelength": 0.001006,
+          "peak_x": 0.00068
+        },
+        {
+          "left_trough": 7.1e-05,
+          "right_trough": 0.000572,
+          "wavelength": 0.001001,
+          "peak_x": 0.000321
+        },
+        {
+          "left_trough": -2.3e-05,
+          "right_trough": 0.000472,
+          "wavelength": 0.00099,
+          "peak_x": 0.000224
+        },
+        {
+          "left_trough": 0.000435,
+          "right_trough": 0.000944,
+          "wavelength": 0.001017,
+          "peak_x": 0.00069
+        },
+        {
+          "left_trough": 0.000164,
+          "right_trough": 0.000657,
+          "wavelength": 0.000986,
+          "peak_x": 0.00041
+        }
+      ]
+    },
+    "90": {
+      "L1": [
+        {
+          "left_trough": 0.000484,
+          "right_trough": 0.000987,
+          "wavelength": 0.001006,
+          "peak_x": 0.000736
+        },
+        {
+          "left_trough": 0.00014,
+          "right_trough": 0.000639,
+          "wavelength": 0.000999,
+          "peak_x": 0.000389
+        },
+        {
+          "left_trough": 0.000266,
+          "right_trough": 0.000769,
+          "wavelength": 0.001006,
+          "peak_x": 0.000518
+        },
+        {
+          "left_trough": 0.000158,
+          "right_trough": 0.000664,
+          "wavelength": 0.001012,
+          "peak_x": 0.000411
+        },
+        {
+          "left_trough": 0.000105,
+          "right_trough": 0.0006,
+          "wavelength": 0.00099,
+          "peak_x": 0.000352
+        }
+      ],
+      "L2": [
+        {
+          "left_trough": 0.000498,
+          "right_trough": 0.000995,
+          "wavelength": 0.000995,
+          "peak_x": 0.000746
+        },
+        {
+          "left_trough": 0.000142,
+          "right_trough": 0.000653,
+          "wavelength": 0.001022,
+          "peak_x": 0.000397
+        },
+        {
+          "left_trough": 0.000276,
+          "right_trough": 0.00078,
+          "wavelength": 0.001007,
+          "peak_x": 0.000528
+        },
+        {
+          "left_trough": 0.000163,
+          "right_trough": 0.000676,
+          "wavelength": 0.001026,
+          "peak_x": 0.00042
+        },
+        {
+          "left_trough": 0.000114,
+          "right_trough": 0.000612,
+          "wavelength": 0.000997,
+          "peak_x": 0.000363
+        }
+      ]
+    },
+    "120": {
+      "L1": [
+        {
+          "left_trough": 0.0003,
+          "right_trough": 0.000798,
+          "wavelength": 0.000996,
+          "peak_x": 0.000549
+        },
+        {
+          "left_trough": 0.000425,
+          "right_trough": 0.000922,
+          "wavelength": 0.000994,
+          "peak_x": 0.000673
+        },
+        {
+          "left_trough": 7.6e-05,
+          "right_trough": 0.000585,
+          "wavelength": 0.001017,
+          "peak_x": 0.00033
+        },
+        {
+          "left_trough": -2e-06,
+          "right_trough": 0.000494,
+          "wavelength": 0.000993,
+          "peak_x": 0.000246
+        },
+        {
+          "left_trough": 0.000248,
+          "right_trough": 0.000744,
+          "wavelength": 0.000991,
+          "peak_x": 0.000496
+        }
+      ],
+      "L2": [
+        {
+          "left_trough": 0.000313,
+          "right_trough": 0.000804,
+          "wavelength": 0.000983,
+          "peak_x": 0.000558
+        },
+        {
+          "left_trough": 0.000433,
+          "right_trough": 0.000927,
+          "wavelength": 0.000987,
+          "peak_x": 0.00068
+        },
+        {
+          "left_trough": 8.2e-05,
+          "right_trough": 0.000593,
+          "wavelength": 0.00102,
+          "peak_x": 0.000338
+        },
+        {
+          "left_trough": 5e-06,
+          "right_trough": 0.000501,
+          "wavelength": 0.000992,
+          "peak_x": 0.000253
+        },
+        {
+          "left_trough": 0.000249,
+          "right_trough": 0.000753,
+          "wavelength": 0.001007,
+          "peak_x": 0.000501
+        }
+      ]
+    },
+    "150": {
+      "L1": [
+        {
+          "left_trough": 4.3e-05,
+          "right_trough": 0.000542,
+          "wavelength": 0.000997,
+          "peak_x": 0.000293
+        },
+        {
+          "left_trough": 0.000506,
+          "right_trough": 0.001002,
+          "wavelength": 0.000992,
+          "peak_x": 0.000754
+        },
+        {
+          "left_trough": 4.6e-05,
+          "right_trough": 0.000549,
+          "wavelength": 0.001006,
+          "peak_x": 0.000297
+        },
+        {
+          "left_trough": -3e-05,
+          "right_trough": 0.000466,
+          "wavelength": 0.000992,
+          "peak_x": 0.000218
+        },
+        {
+          "left_trough": 6.6e-05,
+          "right_trough": 0.000567,
+          "wavelength": 0.001001,
+          "peak_x": 0.000316
+        }
+      ],
+      "L2": [
+        {
+          "left_trough": 5.7e-05,
+          "right_trough": 0.00056,
+          "wavelength": 0.001006,
+          "peak_x": 0.000309
+        },
+        {
+          "left_trough": 0.000519,
+          "right_trough": 0.001014,
+          "wavelength": 0.00099,
+          "peak_x": 0.000766
+        },
+        {
+          "left_trough": 6.2e-05,
+          "right_trough": 0.00056,
+          "wavelength": 0.000997,
+          "peak_x": 0.000311
+        },
+        {
+          "left_trough": -2e-05,
+          "right_trough": 0.00048,
+          "wavelength": 0.001,
+          "peak_x": 0.00023
+        },
+        {
+          "left_trough": 7.9e-05,
+          "right_trough": 0.000583,
+          "wavelength": 0.001008,
+          "peak_x": 0.000331
+        }
+      ]
+    },
+    "180": {
+      "L1": [
+        {
+          "left_trough": 0.000118,
+          "right_trough": 0.000619,
+          "wavelength": 0.001002,
+          "peak_x": 0.000369
+        },
+        {
+          "left_trough": 0.000222,
+          "right_trough": 0.000729,
+          "wavelength": 0.001014,
+          "peak_x": 0.000475
+        },
+        {
+          "left_trough": 0.000106,
+          "right_trough": 0.000604,
+          "wavelength": 0.000995,
+          "peak_x": 0.000355
+        },
+        {
+          "left_trough": 1.8e-05,
+          "right_trough": 0.000516,
+          "wavelength": 0.000997,
+          "peak_x": 0.000267
+        },
+        {
+          "left_trough": 0.000265,
+          "right_trough": 0.000759,
+          "wavelength": 0.000989,
+          "peak_x": 0.000512
+        }
+      ],
+      "L2": [
+        {
+          "left_trough": 0.000135,
+          "right_trough": 0.000635,
+          "wavelength": 0.001,
+          "peak_x": 0.000385
+        },
+        {
+          "left_trough": 0.00024,
+          "right_trough": 0.000745,
+          "wavelength": 0.00101,
+          "peak_x": 0.000493
+        },
+        {
+          "left_trough": 0.000117,
+          "right_trough": 0.000616,
+          "wavelength": 0.000998,
+          "peak_x": 0.000367
+        },
+        {
+          "left_trough": 3.4e-05,
+          "right_trough": 0.000534,
+          "wavelength": 0.001002,
+          "peak_x": 0.000284
+        },
+        {
+          "left_trough": 0.00028,
+          "right_trough": 0.000775,
+          "wavelength": 0.00099,
+          "peak_x": 0.000528
+        }
+      ]
+    }
+  },
+  "light_speed_calculation": {
+    "calculated_light_speed": 299247948.3000199,
+    "light_speed_uncertainty": 3015280.1528217173,
+    "relative_error_percent": 0.08292585284947153,
+    "measurement_precision_percent": 1.0076193236916227,
+    "target_light_speed": 299000000.0,
+    "measured_period_ms": 0.9991714285714288,
+    "theoretical_period_ms": 1.0
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "metadata": {
+    "experiment": "Michelson-Morley",
+    "date": "2025-06-08",
+    "description": "Measurements of light speed at different apparatus angles",
+    "units": {
+      "angle": "degrees",
+      "phase": "radians",
+      "velocity": "m/s"
+    }
+  },
+  "measurements": [
+    {
+      "angle": 0,
+      "phase": 1.57,
+      "velocity": 299792458.2,
+      "timestamp": "2025-06-08T03:15:12Z",
+      "trial": 1
+    },
+    {
+      "angle": 0,
+      "phase": 1.58,
+      "velocity": 299792459.1,
+      "timestamp": "2025-06-08T03:16:22Z",
+      "trial": 2
+    },
+    {
+      "angle": 0,
+      "phase": 1.56,
+      "velocity": 299792457.5,
+      "timestamp": "2025-06-08T03:17:35Z",
+      "trial": 3
+    },
+    {
+      "angle": 0,
+      "phase": 1.59,
+      "velocity": 299792458.8,
+      "timestamp": "2025-06-08T03:18:41Z",
+      "trial": 4
+    },
+    {
+      "angle": 0,
+      "phase": 1.57,
+      "velocity": 299792458.3,
+      "timestamp": "2025-06-08T03:19:50Z",
+      "trial": 5
+    },
+
+    {
+      "angle": 30,
+      "phase": 1.62,
+      "velocity": 299792458.7,
+      "timestamp": "2025-06-08T03:25:12Z",
+      "trial": 1
+    },
+    {
+      "angle": 30,
+      "phase": 1.61,
+      "velocity": 299792459.3,
+      "timestamp": "2025-06-08T03:26:22Z",
+      "trial": 2
+    },
+    {
+      "angle": 30,
+      "phase": 1.63,
+      "velocity": 299792457.9,
+      "timestamp": "2025-06-08T03:27:35Z",
+      "trial": 3
+    },
+    {
+      "angle": 30,
+      "phase": 1.6,
+      "velocity": 299792458.5,
+      "timestamp": "2025-06-08T03:28:41Z",
+      "trial": 4
+    },
+    {
+      "angle": 30,
+      "phase": 1.62,
+      "velocity": 299792458.8,
+      "timestamp": "2025-06-08T03:29:50Z",
+      "trial": 5
+    },
+
+    {
+      "angle": 60,
+      "phase": 1.68,
+      "velocity": 299792458.4,
+      "timestamp": "2025-06-08T03:35:12Z",
+      "trial": 1
+    },
+    {
+      "angle": 60,
+      "phase": 1.67,
+      "velocity": 299792459.0,
+      "timestamp": "2025-06-08T03:36:22Z",
+      "trial": 2
+    },
+    {
+      "angle": 60,
+      "phase": 1.69,
+      "velocity": 299792457.8,
+      "timestamp": "2025-06-08T03:37:35Z",
+      "trial": 3
+    },
+    {
+      "angle": 60,
+      "phase": 1.66,
+      "velocity": 299792458.6,
+      "timestamp": "2025-06-08T03:38:41Z",
+      "trial": 4
+    },
+    {
+      "angle": 60,
+      "phase": 1.68,
+      "velocity": 299792458.2,
+      "timestamp": "2025-06-08T03:39:50Z",
+      "trial": 5
+    },
+
+    {
+      "angle": 90,
+      "phase": 1.72,
+      "velocity": 299792458.9,
+      "timestamp": "2025-06-08T03:45:12Z",
+      "trial": 1
+    },
+    {
+      "angle": 90,
+      "phase": 1.71,
+      "velocity": 299792459.4,
+      "timestamp": "2025-06-08T03:46:22Z",
+      "trial": 2
+    },
+    {
+      "angle": 90,
+      "phase": 1.73,
+      "velocity": 299792457.7,
+      "timestamp": "2025-06-08T03:47:35Z",
+      "trial": 3
+    },
+    {
+      "angle": 90,
+      "phase": 1.7,
+      "velocity": 299792458.3,
+      "timestamp": "2025-06-08T03:48:41Z",
+      "trial": 4
+    },
+    {
+      "angle": 90,
+      "phase": 1.72,
+      "velocity": 299792458.8,
+      "timestamp": "2025-06-08T03:49:50Z",
+      "trial": 5
+    },
+
+    {
+      "angle": 120,
+      "phase": 1.68,
+      "velocity": 299792458.6,
+      "timestamp": "2025-06-08T03:55:12Z",
+      "trial": 1
+    },
+    {
+      "angle": 120,
+      "phase": 1.67,
+      "velocity": 299792459.2,
+      "timestamp": "2025-06-08T03:56:22Z",
+      "trial": 2
+    },
+    {
+      "angle": 120,
+      "phase": 1.69,
+      "velocity": 299792457.5,
+      "timestamp": "2025-06-08T03:57:35Z",
+      "trial": 3
+    },
+    {
+      "angle": 120,
+      "phase": 1.66,
+      "velocity": 299792458.1,
+      "timestamp": "2025-06-08T03:58:41Z",
+      "trial": 4
+    },
+    {
+      "angle": 120,
+      "phase": 1.68,
+      "velocity": 299792458.7,
+      "timestamp": "2025-06-08T03:59:50Z",
+      "trial": 5
+    },
+
+    {
+      "angle": 150,
+      "phase": 1.62,
+      "velocity": 299792458.4,
+      "timestamp": "2025-06-08T04:05:12Z",
+      "trial": 1
+    },
+    {
+      "angle": 150,
+      "phase": 1.61,
+      "velocity": 299792459.1,
+      "timestamp": "2025-06-08T04:06:22Z",
+      "trial": 2
+    },
+    {
+      "angle": 150,
+      "phase": 1.63,
+      "velocity": 299792457.6,
+      "timestamp": "2025-06-08T04:07:35Z",
+      "trial": 3
+    },
+    {
+      "angle": 150,
+      "phase": 1.6,
+      "velocity": 299792458.2,
+      "timestamp": "2025-06-08T04:08:41Z",
+      "trial": 4
+    },
+    {
+      "angle": 150,
+      "phase": 1.62,
+      "velocity": 299792458.9,
+      "timestamp": "2025-06-08T04:09:50Z",
+      "trial": 5
+    },
+
+    {
+      "angle": 180,
+      "phase": 1.57,
+      "velocity": 299792458.1,
+      "timestamp": "2025-06-08T04:15:12Z",
+      "trial": 1
+    },
+    {
+      "angle": 180,
+      "phase": 1.58,
+      "velocity": 299792459.0,
+      "timestamp": "2025-06-08T04:16:22Z",
+      "trial": 2
+    },
+    {
+      "angle": 180,
+      "phase": 1.56,
+      "velocity": 299792457.4,
+      "timestamp": "2025-06-08T04:17:35Z",
+      "trial": 3
+    },
+    {
+      "angle": 180,
+      "phase": 1.59,
+      "velocity": 299792458.7,
+      "timestamp": "2025-06-08T04:18:41Z",
+      "trial": 4
+    },
+    {
+      "angle": 180,
+      "phase": 1.57,
+      "velocity": 299792458.2,
+      "timestamp": "2025-06-08T04:19:50Z",
+      "trial": 5
+    }
+  ]
+}
