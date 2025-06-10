@@ -36,6 +36,7 @@ The original Michelson–Morley experiment aimed to detect the presence of a med
 
 Theoretical physicist Hendrik Lorentz had proposed modifications to Galilean transformations to account for the null result. These ideas later inspired Einstein to propose special relativity, a theory that replaced Newtonian notions of absolute space and time with a unified spacetime framework in which the speed of light is constant for all observers.
 
+This is also how mordern astrophysicists fundamentally detect the gravitational waves in the universe! The most famous site should be LIGO. See more about LIGO at [Visit Here](https://www.ligo.caltech.edu/page/what-is-ligo)
 
 ### Modern Implementation of the 1887 Classic
 
