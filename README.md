@@ -1,21 +1,12 @@
-# 🔬 Michelson-Morley Laser Experiment Report
+# Michelson-Morley Laser Experiment Report
 
-## ⭐🌟 **For the Best Reading Experience, Please Visit Our Live Website:** ✨🌟
+** Headup: The newest laser interferometer experiment report is published! **
+
+## **For the Best Reading Experience, Please Visit Our Live Website:**
 
 ### 🌐 **[View Interactive Report →](https://lloyd-lei.github.io/Michelson-Morley-Laser-Experiment-Report/)**
 
 ---
-
-## 🚀 Why Visit the GitHub Pages Site?
-
-The **live website** provides an immersive, interactive experience that you cannot get from viewing raw files:
-
-- **📊 Real-time Data Visualization** - Interactive charts and graphs of experimental data
-- **🖼️ High-Quality Image Gallery** - Lightbox display of experimental setup and results
-- **📱 Responsive Design** - Optimized for both desktop and mobile viewing
-- **🧭 Smooth Navigation** - Table of contents and scroll-based navigation
-- **💾 Direct Downloads** - Easy access to PDF reports and raw data files
-- **📈 Interactive Analysis** - Dynamic plotting of oscilloscope measurements
 
 ## 🔗 Quick Access Links
 
@@ -40,21 +31,21 @@ This is also how mordern astrophysicists fundamentally detect the gravitational 
 
 ### Modern Implementation of the 1887 Classic
 
-- **🔴 Laser Source**: 632.8 nm HeNe laser
-- **⚡ Modulation**: 1 kHz square wave modulation
-- **📏 Precision**: ±0.1° phase measurement accuracy
-- **📊 Data Points**: 5,000+ measurements per angle
-- **📐 Measurement Angles**: 0°, 30°, 60°, 90°, 120°, 150°, 180°
-- **🔬 Technology**: Digital phase detection with advanced signal processing
+- ** Laser Source**: 632.8 nm HeNe laser
+- ** Modulation**: 1 kHz square wave modulation
+- ** Precision**: ±0.1° phase measurement accuracy
+- ** Data Points**: 5,000+ measurements per angle
+- ** Measurement Angles**: 0°, 30°, 60°, 90°, 120°, 150°, 180°
+- ** Technology**: Digital phase detection with advanced signal processing
 
-### 🎯 Key Results
+### Key Results
 
 - **No significant fringe shift detected**
 - **Supports Einstein's Special Relativity**
 - **Disproves luminiferous aether hypothesis**
 - **Achieved modern precision measurements**
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 ├── index.html                 # Main interactive website
@@ -67,23 +58,7 @@ This is also how mordern astrophysicists fundamentally detect the gravitational 
 └── README.md                 # This file
 ```
 
-## 🌟 Features of the Interactive Website
-
-### 🖥️ **Desktop Experience**
-
-- Full-screen data visualizations
-- Sidebar table of contents
-- High-resolution image viewing
-- Comprehensive analysis dashboard
-
-### 📱 **Mobile Experience**
-
-- Touch-optimized navigation
-- Responsive charts and graphs
-- Mobile-friendly image gallery
-- Optimized for various screen sizes
-
-## 🏆 Why This Experiment Matters
+## Why This Experiment Matters
 
 The Michelson-Morley experiment is one of the most important physics experiments in history. Our modern recreation using digital instrumentation provides:
 
@@ -92,31 +67,13 @@ The Michelson-Morley experiment is one of the most important physics experiments
 3. **Scientific Method** - Shows how technology improves measurement accuracy
 4. **Relativity Confirmation** - Further evidence for Einstein's theories
 
-## 🎓 Perfect for
-
-- **Physics Students** - Understanding classical and modern experimental methods
-- **Educators** - Teaching relativity and experimental physics
-- **Researchers** - Reference for modern interferometry techniques
-- **Science Enthusiasts** - Exploring one of physics' most famous experiments
 
 ---
 
-## 🚀 **Don't Miss Out!**
-
-### **Experience the full interactive report at:**
-
-# **[https://lloyd-lei.github.io/Michelson-Morley-Laser-Experiment-Report/](https://lloyd-lei.github.io/Michelson-Morley-Laser-Experiment-Report/)**
 
 -----------------------------------------------
 
-# 👏 Acknowledgement 🎉
 
-Huge thanks to Katherine Kudla, Katie!!! Thank you for your teaching, guidance, and encouragement! There were several moments when I seriously considered giving up—frustration and a "can't-do attitude" overwhelmed my mind.
-But I’m truly grateful for your genuine willingness to listen and offer thoughtful advice whenever I brought up new ideas and directions throughout this lab series capstone experiment.
-
-And also huge thank you to Sam Bonkowsky! Thanks for teaching me how to use keithley oscillascope and soldering circuits! It's a miracle that I didn't break them.
-
-Last but not the least, "Katie, please gimme an A!!!" (🥺🥺🥺)
 
 
 
